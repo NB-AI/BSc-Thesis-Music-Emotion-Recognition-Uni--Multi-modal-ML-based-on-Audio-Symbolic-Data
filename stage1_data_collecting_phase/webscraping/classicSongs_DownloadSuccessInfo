@@ -1,0 +1,109 @@
+All classic music pieces with the information whether MIDI files were found.
+
+manual MIDI download done:
+Bartholdy - Sommernachtstraum K_Bartholdy_Sommern
+Händel - Lascia ch’io pianga K_Haendel_Lasciac
+Händel - Der Messias (Hallelujah) K_Haendel_DerMess
+Strauss, R. - Rosenkavalier, Act 1 K_StraussR_Rosenka
+Mozart - Overture - Marriage Of Figaro K_Mozart_Overtur
+Mozart - Die Zauberflöte K_Mozart_DieZaub
+Mozart - Don Giovanni, "La ci darem la mano" K_Mozart_DonGiov
+Mozart - 25. Sinfonie (I. Allegro con brio) K_Mozart_25SinfI
+Bruch - Kol Nidrei, Adagio for Cello and Orchestra, op. 47 K_Bruch_KolNidr
+Chopin - Concerto for Piano n°1 in e Minor. Second movement. Larghetto K_Chopin_Concert
+Chopin - Prelude No. 16 in B-Moll K_Chopin_Prelude
+Chopin - Etüde Op. 25 No. 1 K_Chopin_EtuedeO
+Chopin - Waltz Op.69 No.2 K_Chopin_WaltzOp
+Wagner - Tristan und Isolde, Liebestod K_Wagner_Tristan
+Tschaikowski - Schwanensee K_Tschaikowski_Schwane
+Tschaikowski - 4. Sinfonie K_Tschaikowski_4Sinf
+Dvorák - 9. Sinfonie (II. Largo) K_Dvorak_9SinfII
+Dvorák - 9. Sinfonie, 4. Satz K_Dvorak_9Sinf4S
+Vivaldi - Die 4 Jahreszeiten (Frühling) K_Vivaldi_4JahrFr
+Vivaldi - Die 4 Jahreszeiten (Herbst) K_Vivaldi_4JahrHe
+Vivaldi - Die 4 Jahreszeiten (Sommer) K_Vivaldi_4JahrSo
+Debussy - Prélude à l’après-midi d’un faune K_Debussy_Prelude
+Debussy - Arabesque No. 1 K_Debussy_Arabesq
+Debussy - Des pas sur la neige K_Debussy_Despass
+Brahms - Sinfonie Nr. 4 K_Brahms_SinfNr4
+Brahms - Klaviersonate Nr. 3 (Zwei Klaviere) K_Brahms_Klavier
+Fauré - Romance sans Paroles K_Faure_Romance
+Liszt - Bénédiction de Dieu Dans la Solitude K_Liszt_Benedic
+Strawinsky - Feuervogel Suite K_Strawinsky_Feuervo
+Saint-Saens - Carnival of Animals: Finale K_Saint-Saens_Carniva
+Albinoni - Concerto a cinque No. 2, Op. 9 K_Albinoni_Concert
+Schumann - Fantasie in C-Dur K_Schumann_Fantasi
+Schumann - Études Symphoniques K_Schumann_EtudeS
+Grieg - Norwegische Tänze K_Grieg_Norwegi
+Bizet - Carmen (Habanera) K_Bizet_CarmenH
+Mussorgsky - Bilder einer Ausstellung K_Mussorgsky_Bildere
+Skrjabin - Preludes op. 11 no. 1 K_Skrjabin_Prelude1
+Verdi - Requiem (Dies Irae) K_Verdi_Requiem
+Verdi - La Traviata K_Verdi_LaTravi
+Bruckner - 8. Sinfonie (Finale) K_Bruckner_8SinfFi
+Bach - Brandenburgische Konzerte K_Bach_Branden
+
+
+web scrapted:
+Mozart - Eine kleine Nachtmusik: First movement K_Mozart_Einekle 
+Tschaikowski - Marsch (Nussknacker) K_Tschaikowski_MarschN
+Vivaldi - Die 4 Jahreszeiten (Winter) K_Vivaldi_4JahrWi
+
+
+not clear if correct title but findable files:
+Händel - Sinfonie in B-Dur (HWV 339) K_Haendel_SinfinB
+Chopin - 3. Klaviersonate, 4. Satz K_Chopin_3KS4Sat
+Rachmaninow - Paganini Variations No. 18 K_Rachmaninow_Paganin
+Rachmaninow - 3. Klavierkonzert, 3. Satz K_Rachmaninow_3KK3Sat
+Brahms - Sonate Nr. 2 für Klarinette, 1. Satz K_Brahms_SonateN
+Brahms - Violinkonzert K_Brahms_Violink
+Franck - Violinsonate, 4. Satz K_Franck_Violins
+Tschaikowski - Dornröschen K_Tschaikowski_Dornroe --> the act number is not defined
+
+
+not findable:
+Tschaikowski - Symphony, 1 Scherzo K_Tschaikowski_Symphon
+Tschaikowski - Gremin's Aria (Onegin) K_Tschaikowski_Gremins
+Strauss, R. - Don Juan K_StraussR_DonJuan
+Strauss, J. - Chit-Chat-Polka, op. 214 K_StraussJ_Chit-Ch
+Mozart - Overtüre - Die Entführung aus dem Serail K_Mozart_Overtue
+Mozart - Gran Partita, 3. Satz K_Mozart_GranPar
+Mozart - Laudate Dominum K_Mozart_Laudate
+Alfvén - Midsommarvaka K_Alfven_Midsomm
+Rossini - Wilhelm Tell (Ouvertüre) K_Rossini_Wilhelm
+Borodin - Fürst Igor (Chorus) K_Borodin_FuerstI
+Chopin - Impromptu No. 2 K_Chopin_Impromp
+Tschaikowski - Walzer (Onegin) K_Tschaikowski_WalzerO
+Tschaikowski - Slawischer Marsch K_Tschaikowski_Slawisc
+Vivaldi - L'Estro Armonico (Concerto No. 9) K_Vivaldi_LEstroA
+Delibes - Coppelia. Ballet in 3 Acts. First act, prélude K_Delibes_Coppeli
+Ligeti - Etüde Arc en Ciel K_Ligeti_EtuedeA
+Rachmaninow - Preludes op. 32 no. 5 K_Rachmaninow_Prelude
+Brahms - Klavierquartett Nr. 3 in C-Moll, 3. Satz K_Brahms_KSNr3Zw
+Holst - The Planets, op. 32. Mars K_Holst_ThePlan
+Malipiero - Risonanze K_Malipiero_Risonan
+Liszt - Spanish Rhapsody K_Liszt_Spanish
+Mendelssohn - Song Without Words, op. 19, No 1 K_Mendelssohn_SongWit
+Humperdinck - Hänsel und Gretel (Ouvertüre) K_Humperdinck_Haensel
+Milhaud - Scaramouche: Brazileira K_Milhaud_Scaramo
+Mahler - 6. Symphony, Andante, (Karajan) K_Mahler_6Sympho
+Mahler - 6. Sinfonie, 1. Satz K094
+Messiaen - Quatuor pour la fin du Temps K_Messiaen_Quatuor
+Palestrina - Missa Brevis (Kyrie) K_Palestrina_MissaBr
+Bartok - Sonata 2 pianos percussion K_Bartok_Sonata2
+J.S. Bach - Konzert 2 Violinen, 2. Satz K_JSBach_Konzert
+Verdi - der Troubadour K_Verdi_derTrou
+Lalo - Symphonie espagnole K_Lalo_Symphon
+Shostakovich - Symphony n°11 in g Minor op. 103. Second movement K_Shostakovich_Symphon
+Copland - Appalachian Suite K_Copland_Appalac
+Sibelius - Var det en dröm? K_Sibelius_Vardete
+Prokofjew - Klaviersonate No. 7 K_Prokofjew_KSNo7
+Casella - Italia K_Casella_Italia
+Skrjabin - Preludes op. 11 no. 15 K_Skrjabin_Prelude15
+Elgar - Pomp and Circumstance (1. Marsch) K_Elgar_Pompand
+Berg - Quartett, op. 3 K_Berg_Quartet
+Carl Orff - O Fortuna (Carmina Burana) K_CarlOrff_OFortun
+Puccini - Messa di Gloria K_Puccini_Messadi
+Jose Gonzales - Heartbeats P_JoseGonzales_Heartbe
+Bartok - Piano Sonata BB 88 (Sz. 80) K_Bartok_PianoSo
+
