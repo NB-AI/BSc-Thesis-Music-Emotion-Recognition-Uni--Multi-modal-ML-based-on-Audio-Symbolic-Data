@@ -1,5 +1,7 @@
 # Bachelor Thesis: Music Emotion Recognition: Uni- and Multi-modal Machine Learning Approaches based on Audio and Symbolic Data
 
+Genererated MIDI, wav files, parameters, imported MIDIBert, and audio2MIDI converter are missing because they are storage heavy. 
+
 This is the repository of the project 
 > bachelorThesis\_NinaBraunmiller\_k11923286.pdf
 
